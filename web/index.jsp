@@ -47,7 +47,7 @@
                     <td><%=alumno[i].getMatricula()%></td>
                     <td><%=alumno[i].getNombre()%></td> 
                     <td><%=alumno[i].getApellidos()%> </td> 
-                    <td><%=alumno[i].getCjv()%></td>
+                    <td><%=alumno[i].getDdi()%></td>
                     <td><%=alumno[i].getDwi()%></td>
                     <td><%=alumno[i].getEcbd()%></td>
                     <td><%=alumno[i].calcularProm()%></td>

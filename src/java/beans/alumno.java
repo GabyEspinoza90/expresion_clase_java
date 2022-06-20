@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package beans;
 
 public class alumno
@@ -56,7 +52,7 @@ public class alumno
     {
         this.apellidos = apellidos;
     }
-    public int getCjv()
+    public int getDdi()
     {
         return ddi;
     }
